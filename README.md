@@ -23,9 +23,3 @@ $ java -jar -Dspring.profiles.active=local api-service/target/api-service-0.0.1-
 4. [외부 API 가이드](https://github.com/cheese10yun/spring-guide/blob/master/docs/api-call-guide.md)
 5. [Service 적절한 크기 가이드](https://github.com/cheese10yun/spring-guide/blob/master/docs/service-guide.md)
 6. [Directory 가이드](https://github.com/cheese10yun/spring-guide/blob/master/docs/directory-guide.md)
-
-
-
-
-
-
